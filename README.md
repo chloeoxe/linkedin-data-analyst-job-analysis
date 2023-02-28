@@ -16,3 +16,4 @@ Topics covered in this project are:
 - Data Visualisation
 - Unsupervised Machine Learning
 - Feature Engineering & Extraction
+- Natural Language Processing
